@@ -20,3 +20,8 @@
 
 ## Video Handling 
 ![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/9859f8b7-b59b-46d2-91b6-9bd86ebe23fa)
+
+## Marguee
+
+## Chip Widget
+![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/ee37504a-f53e-4101-866b-1476ef441d46)
