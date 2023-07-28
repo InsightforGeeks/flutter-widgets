@@ -25,3 +25,11 @@
 
 ## Chip Widget
 ![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/ee37504a-f53e-4101-866b-1476ef441d46)
+
+##  Flutter-Tabs
+![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/89a68dc9-fbc2-49a7-8f91-6ff7e7e919ee)
+
+##  Horizontal Lists
+![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/5e7c7911-7be4-43df-8241-d105a98f90af)
+
+
