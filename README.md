@@ -32,4 +32,10 @@
 ##  Horizontal Lists
 ![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/5e7c7911-7be4-43df-8241-d105a98f90af)
 
+##  Shimmer Effect
+
+![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/58c02c7d-fe40-4493-b35b-7c58f85beafd)
+
+##  Animated Notch Bottom Bar
+
 
