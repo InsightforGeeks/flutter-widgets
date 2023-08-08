@@ -38,4 +38,10 @@
 
 ##  Animated Notch Bottom Bar
 
+![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/18e95272-6f66-431c-b195-d68f8239cb69)
+
+## Flutter Chart
+
+![ytthumb](https://github.com/WhiteListai-in/flutter-widgets/assets/20355674/0bdb2174-a88e-4737-ba51-0ad322bd7a83)
+
 
